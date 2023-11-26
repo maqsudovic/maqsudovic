@@ -42,5 +42,9 @@
 
 <hr>
 <h4 align="center">
-  <a href="https://github.com/nodirbek004?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
+  <a href="https://github.com/maqsudovic?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h4>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Juratbek/count.svg" />
+</p>
