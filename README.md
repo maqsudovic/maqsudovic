@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Jur`atbek👨‍💻&center=true&size=30">
   </a>
   
-  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Zp9f2I9FpFcAAAAM/anonimous-hacker.gif">
+  <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/156/15675.gif">
 </h1>
 
 <h5 align="center">
