@@ -10,7 +10,7 @@
 
 <h5 align="center">
  <a href="https://www.instagram.com/_maksudov1c_me/" title="Instagram"><img width="90" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
- <a href="https://t.me/jm_INCIDE" title="Telegram"><img width="80" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+ <a href="https://t.me/jmINCIDE" title="Telegram"><img width="80" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </h5>
 <br>
 <p align="center">
