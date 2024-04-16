@@ -14,12 +14,12 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Jur`atbek, .NET Software Engineer from Uzbekistan
+  Hi, I'm Jur`atbek, Flutter Developer from Uzbekistan
   <br>
   <br>
   🔬 I'm currently studying at Najot Ta`lim
   <br>
-  ✍️ My blog, where I share personal experiences <a href="https://t.me/juratbeks_blog">🌐tg</a>
+  ✍️ My blog, where I share personal experiences <a href="https://t.me/juratbeks_blog">🌐Chanel✅</a>
   <br>
   💬 Ask me anything about from <a href="juratbekmaqsudovich@gmail.com" title="Issues">Here</a>
   <br>
